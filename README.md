@@ -1,12 +1,13 @@
 # 👋 Hello, This is My Beta Soft official GitHub account.
 
--👀 There's programs that our company make.
+- 👀 There's programs that our company make.
 
-# 🌱 This company started a little bit ago.
+- 🌱 This company started a little bit ago.
+# How To Reach Us
 
--📫 Questions on info@mybetasoft.com
+- 📫 Questions on info@mybetasoft.com
 
--⚡ Fun fact: This company have 2 owners!
+- ⚡ Fun fact: This company have 2 owners!
 
 <!---
 MyBetaSoft/MyBetaSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
